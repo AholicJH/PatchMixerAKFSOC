@@ -1,0 +1,3 @@
+# PatchMixerAKFSOC
+
+startWritingMyProject
